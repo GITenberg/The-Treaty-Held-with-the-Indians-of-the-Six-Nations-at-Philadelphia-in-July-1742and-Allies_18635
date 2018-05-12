@@ -1,0 +1,30 @@
+_repo: The-Treaty-Held-with-the-Indians-of-the-Six-Nations-at-Philadelphia-in-July-1742and-Allies_18635
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Thomas, George, Sir
+    birthdate: 1695
+    deathdate: 1774
+    gutenberg_agent_id: '8163'
+    url: http://www.gutenberg.org/2009/agents/8163
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2006-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18635'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Iroquois Indians -- Treaties'
+- !lcsh 'Indians of North America -- Treaties'
+title: "The Treaty Held with the Indians of the Six Nations at Philadelphia, in July\
+  \ 1742\r\nTo which is Prefix'd an Account of the first Confederacy of the Six Nations,\
+  \ their present Tributaries, Dependents, and Allies"
+url: http://www.gutenberg.org/ebooks/18635
