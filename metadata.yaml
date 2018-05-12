@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8163'
     url: http://www.gutenberg.org/2009/agents/8163
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18635#The-Treaty-Held-with-the-Indians-of-the-Six-Nations-at-Philadelphia-in-July-1742and-Allies
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2006-06-20'
 gutenberg_type: Text
